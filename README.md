@@ -39,7 +39,7 @@ I'll let all the titles with links to one useful source
 
 _There is a lot more involved in DNS servers, check the link at the title for more information._
 
-## What is Domain Name? 🏡
+## [What is Domain Name?](https://www.website.com/beginnerguide/domainnames/8/1/What-is-a-domain-name?.ws) 🏡
 
 > Is the address where Internet users can access your website (Like in the past example, google.com) and they were developed and used to identify entities on the Internet rather than using IP addresses.
 
@@ -49,13 +49,25 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 # Basic front-end knowledge
 
+![The front](https://mdn.mozillademos.org/files/13502/cake.png)
+
 ## HTML
 
-> HTML **is not a programming language**. It's a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. 
+> HTML **is not a programming language**. It's a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. There is others markup languages as XML or SVG.
+
+* HTML Element
+    * A simple paragraph element
+![1](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
+    * The same paragraph element with a class attribute that contain extra information about the element that you don't want to appear in the actual content.
+![2](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
 
 ## CSS
 
+> Is a language for specifying how documents are presented to users — how they are styled, laid out, etc. You'll create a class or an ID on CSS, add some style and then apply it to the HTML documment.
+
 ## JavaScript
+
+> 
 
 # OS and General knowledge
 
