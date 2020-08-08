@@ -49,9 +49,9 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 # Basic front-end knowledge
 
-![The front](https://mdn.mozillademos.org/files/13502/cake.png)
+![The front cake](https://mdn.mozillademos.org/files/13502/cake.png)
 
-## HTML
+## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 > HTML **is not a programming language**. It's a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. There is others markup languages as XML or SVG.
 
@@ -61,19 +61,29 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
     * The same paragraph element with a class attribute that contain extra information about the element that you don't want to appear in the actual content.
 ![2](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
 
-## CSS
+## [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
-> Is a language for specifying how documents are presented to users — how they are styled, laid out, etc. You'll create a class or an ID on CSS, add some style and then apply it to the HTML documment.
+> Is a language of style rules that we use to apply styling to our HTML content, for example setting background colors and fonts, and laying out our content in multiple columns. You'll create a class or an ID on CSS, add some style and then apply it to the HTML documment.
 
-## JavaScript
+## [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-> 
+> Is a scripting or programming language that allows you to implement complex features on web pages 
+
+* DOM
+    * Represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree. With them, you can change the document's structure, style, or content.
+
+* 2D/3D
+    * Canvvas provides a means for drawing graphics via JavaScript and the HTML "canvas" element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. The Canvas API largely focuses on 2D graphics and the  WebGL API, which also uses the "canvas" element, draws hardware-accelerated 2D and 3D graphics.
 
 # OS and General knowledge
 
-## Terminal Usage
+## [Terminal Usage](https://ubuntu.com/tutorials/command-line-for-beginners)
+
+> I dont have more to say than, open the terminal and start doing stuff. You'll learn with the time, like "I want to copy this file to that location" and google it. With the time you will get faster and notice that it's faster to use the terminal than the file explorer (For the copy example)
 
 ## How OS's work in general
+
+> The operative system interconects the hardware and software of a certain system and gives to the user an easy to use interface. 
 
 ## Process Managment
 
