@@ -204,5 +204,7 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 ![Backend roadmap](https://roadmap.sh/roadmaps/backend.png)
 
-# Credits to [Kamran Ahmed](https://github.com/kamranahmedse) for the [roadmap project](https://roadmap.sh/) 💕
+# Credits to 
+## [Kamran Ahmed](https://github.com/kamranahmedse) for the [roadmap project](https://roadmap.sh/) 💟
 
+## [undraw](https://undraw.co/) for the beautifull svgs! 💟
