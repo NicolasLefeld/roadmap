@@ -10,6 +10,8 @@ _I'll let all the titles with links to one useful source_
 
 # Internet
 
+![internet](img/internet.svg)
+
 ## [How does the internet work](https://www.youtube.com/watch?v=42aWAAqoUfI) 🌐
 
 > The internet its a "wire" (infraestructure) that interconects the people (clients) arround the world. The client connects to that infraestructure and other system serves with information (For example, a web page), that system is called server. Its good to say, that the internet, es free and open. 
@@ -24,6 +26,9 @@ _I'll let all the titles with links to one useful source_
     * Is a 3-digit code most often used to indicate whether an HTTP request has been successfully completed. 
 
 ## [Browsers and how they work?](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
+
+![browsers](img/browsers.svg)
+
 
 > A web browser it's a software that'll retrieve information (The comunication it's handled with HTTP!) from the web and display it to you in a nice way to understand.
 
@@ -52,7 +57,7 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 # Basic front-end knowledge
 
-![The front cake](img/frontend.svg)
+![frontend](img/frontend2.svg)
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
@@ -79,6 +84,8 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
     * Canvas provides a means for drawing graphics via JavaScript and the HTML "canvas" element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. The Canvas API largely focuses on 2D graphics and the  WebGL API, which also uses the "canvas" element, draws hardware-accelerated 2D and 3D graphics.
 
 # OS and General knowledge
+
+![operativesystem](img/operativesystem.svg)
 
 ## [Terminal Usage](https://ubuntu.com/tutorials/command-line-for-beginners)
 
@@ -122,11 +129,15 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 # Learn a language
 
+![programming](img/programming.svg)
+
 ## Java Script
 
 ## PHP
 
 # Version control system
+
+![versioncontrol](img/versioncontrol.svg)
 
 ## Basic Usage of Git
 
@@ -134,31 +145,47 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 ## GitHub
 
-# Relational DB's
+# Data bases
 
-# No relational DB's
+![database](img/database.svg)
 
-# More about DB's
+## Relational DB's
+
+## Non relational DB's
+
+## More about DB's
 
 # API's
+
+![server](img/server.svg)
 
 # Catching
 
 # Web Security
 
+![security](img/security.svg)
+
 # Testing
+
+![testing](img/testing.svg)
 
 # CI/CD
 
 # Design and development principles
 
+![design](img/design.svg)
+
 # Architectural patterns
 
 # Search engines
 
+![search](img/search.svg)
+
 # Message brokers
 
 # Containers VS Virtualization
+
+![container](img/container.svg)
 
 # GraphQL
 
@@ -169,6 +196,8 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 # Web Servers
 
 # Building for scale
+
+![scale](img/scale.svg)
 
 # Keep lerning!
 
