@@ -52,7 +52,7 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 # Basic front-end knowledge
 
-![The front cake](https://mdn.mozillademos.org/files/13502/cake.png)
+![The front cake](img/frontend.svg)
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
