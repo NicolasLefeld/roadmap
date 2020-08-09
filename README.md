@@ -1,9 +1,12 @@
 ```
-I made this repository to follow my own learning and share it with others! 
+I made this repository to follow my own learning and share it with others!
 
-I'll let all the titles with links to one useful source
+I'll be completing it from time to time 🙂
+
+🏁 So, let's get start it! 🏁
 ```
 
+_I'll let all the titles with links to one useful source_
 
 # Internet
 
@@ -73,7 +76,7 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
     * Represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree. With them, you can change the document's structure, style, or content.
 
 * 2D/3D
-    * Canvvas provides a means for drawing graphics via JavaScript and the HTML "canvas" element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. The Canvas API largely focuses on 2D graphics and the  WebGL API, which also uses the "canvas" element, draws hardware-accelerated 2D and 3D graphics.
+    * Canvas provides a means for drawing graphics via JavaScript and the HTML "canvas" element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. The Canvas API largely focuses on 2D graphics and the  WebGL API, which also uses the "canvas" element, draws hardware-accelerated 2D and 3D graphics.
 
 # OS and General knowledge
 
@@ -81,17 +84,33 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 > I dont have more to say than, open the terminal and start doing stuff. You'll learn with the time, like "I want to copy this file to that location" and google it. With the time you will get faster and notice that it's faster to use the terminal than the file explorer (For the copy example)
 
-## How OS's work in general
+## [How OS's work in general](https://www.cleverism.com/operating-system-os-guide/)
 
 > The operative system interconects the hardware and software of a certain system and gives to the user an easy to use interface. 
 
-## Process Managment
+## [Process Management](https://www.guru99.com/process-management-pcb.html#:~:text=Process%20management%20involves%20various%20tasks,to%20share%20and%20exchange%20information.)
 
-## Threads and concurrency
+> The OS its in charge of creation, scheduling, termination of processes. Those tasks need system resources, and the OS its in charge too. 
+
+## [Threads and concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+
+> A Thread also called lightweight process, is basic CPU utilization
+
+> Concurrency also called parallelization happend when various threads excecutes at the same time
+
+![thread](https://miro.medium.com/max/544/0*cgAbgEkofShV4B5z.png)
 
 ## Basic terminal commands
 
+> A list of useful linux commands [here](https://www.hostinger.com/tutorials/linux-commands)
+
 ## Memory managment
+
+> The SO needs to manage the resources, one of those is the memory.
+
+* Store the running process on primary memory
+* Move the process to second memory if the process goes to "suspended" (Called SWAP)
+* Avoid process A to enter the memory space from process B (It's en example)
 
 ## Interprocess communication
 
@@ -115,7 +134,44 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 ## GitHub
 
-And goes on... When I have some spare time, I'll start to complete it :)
+# Relational DB's
+
+# No relational DB's
+
+# More about DB's
+
+# API's
+
+# Catching
+
+# Web Security
+
+# Testing
+
+# CI/CD
+
+# Design and development principles
+
+# Architectural patterns
+
+# Search engines
+
+# Message brokers
+
+# Containers VS Virtualization
+
+# GraphQL
+
+# Graph DB's
+
+# Web Sockets
+
+# Web Servers
+
+# Building for scale
+
+# Keep lerning!
+
 
 ![Backend roadmap](https://roadmap.sh/roadmaps/backend.png)
 
