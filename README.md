@@ -131,25 +131,71 @@ _There is a lot more involved in DNS servers, check the link at the title for mo
 
 ![programming](img/programming.svg)
 
+> I'll be letting here some information about the languages that I found relevant on my career
+
 ## Java Script
 
+* https://eloquentjavascript.net/
+* https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
+* https://github.com/bevacqua/es6
+* https://jgthms.com/javascript-in-14-minutes/
+* https://learnxinyminutes.com/docs/javascript/
+
 ## PHP
+
+* https://www.guru99.com/php-tutorials.html
+* https://www.tutorialspoint.com/php/index.htm
+* https://laravel.com/
 
 # Version control system
 
 ![versioncontrol](img/versioncontrol.svg)
 
-## Basic Usage of Git
+## [Basic Usage of Git](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+
+> Git is an Open Source Version Control Software (VCS). With Git every change that you make on your project, you can wrap it up and upload to the one on the Git, that is stored on a repository. 
+
+Git command list [here](https://github.com/joshnh/Git-Commands)
+
 
 ## Repo hosting services 
 
-## GitHub
+I just have experience with GitHub, GitLab and BitBucket. If you need a recomendation, go with GitHub, or if you like the Open Source, with GitLab. 
+
+As I said, GitLab its Open Source, so you can download and install it on your own server!
+
+Here I let a list of other popular services
+
+* [SourceForge](https://sourceforge.net/)
+* [Cloud Source Repositories
+](https://cloud.google.com/source-repositories)
+* [AWS CodeCommit
+](https://aws.amazon.com/es/codecommit/)
+
+## [GitHub](https://guides.github.com)
+
+> Oh.. GitHub.. I was so refused to use it at first, but now I love it. Once you catch the flow, u'll never let it go!. And remember, GitHub depends on Git, the main tools are provide by Git, but GitHub add collaborative tools and hosting with [GitHubPages](https://pages.github.com/)
+
+For my own experience, start with an empty repository. Upload some stuff to it and breake it a ton!, delete it and start again until you catch the flow. I dont have more than that, just follow the [oficial guide](https://guides.github.com/) and you will be fine!. 
+
+Just one tip. If you are using Unix based OS, install ZSh. You can use the alias "ggpush" for "git push origin master" and others like that. It's amazingly fast when you get used to it! (Or just create you own alias, here it's a [guide](https://www.tecmint.com/create-alias-in-linux/#:~:text=What%20you%20need%20to%20do,command%20you%20wish%20to%20alias.&text=You%20can%20then%20use%20%22wr,for%20your%20current%20terminal%20session.), follow the permanent aliases one)
 
 # Data bases
 
 ![database](img/database.svg)
 
+> A database is an organized collection of data, just that!
+
+> I came across the dilemma... "Relational or Non relational?", and well, there isnt a right answer, it depends on the project that you are working. For example:
+
+* Non relational are fast and are scalable. But for me, the main reason it's his rapid development without a hassle.
+
+* Relational are structured and have ACID compliancy
+    * ACID (Atomicity, Consistency, Isolation, Durability). ACID compliancy reduces anomalies and protects the integrity of your database. It does this by defining exactly how transactions interact with the database, which is not the case with NoSQL databases, which have a primary goal of flexibility and speed, rather than 100% data integrity. **But in my experience, you can handle transaction integrity with Mongoose for example**
+
 ## Relational DB's
+
+> I just have experience with MySQL at the time of writing and... It's tough. This tipe of relational DB has it's own benefits
 
 ## Non relational DB's
 
