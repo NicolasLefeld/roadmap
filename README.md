@@ -195,25 +195,84 @@ Just one tip. If you are using Unix based OS, install ZSh. You can use the alias
 
 ## Relational DB's
 
-> I just have experience with MySQL at the time of writing and... It's tough. This tipe of relational DB has it's own benefits
+> I just have experience with MySQL at the time of writing and... It's a little tough to learn but if relational checks your needs, go ahead, try with SQLite, I think it's a good place to start
+
+TODO: Add PostgreSQL
 
 ## Non relational DB's
 
+> With [MongoDB](https://docs.mongodb.com/manual/) + Mongoose I had a excelent experience working on Node JS, so I recomend to try it.
+
+* When working with Mongo, try to learn about the "$" operators, they add a ton of useful tools that you'll need!
+* Try to isolate the DB functions on the projects. I made a [NodeJs boilerplate](https://github.com/NicolasLefeld/nodeBoilerplate) and all the DB functions are stored on /db path.
+
 ## More about DB's
+
+### ORM's
+
+### ACID
+
+### Transactions
+
+### N+1 Problem
 
 # API's
 
 ![server](img/server.svg)
 
+## REST (Roy Fielding's paper)
+
+## JSON API's
+
+## AUTH
+
+### OAUTH
+
+### Basic AUTH
+
+### Token AUTH
+
+### JWT
+
 # Catching
+
+## CDN 
+
+## Redis
+
+## Catching client side
 
 # Web Security
 
 ![security](img/security.svg)
 
+## MD5 and why not use it
+
+## SHA Family
+
+## scrypt
+
+## bcrypt
+
+## HTTPS
+
+## CORS
+
+## SSL/TLS
+
+## Content Security Policy
+
+## OWASP Security Risk
+
 # Testing
 
 ![testing](img/testing.svg)
+
+## Inregration Testing
+
+## Unit Testing
+
+## Functional Testing
 
 # CI/CD
 
@@ -221,29 +280,79 @@ Just one tip. If you are using Unix based OS, install ZSh. You can use the alias
 
 ![design](img/design.svg)
 
+## SOLID
+
+## KISS
+
+## YAGNI
+
+## DRY
+
 # Architectural patterns
+
+## Monolitic apps
+
+## Microservices
+
+## SOA
+
+## Serverless
 
 # Search engines
 
 ![search](img/search.svg)
 
+## Elasticsearch
+
 # Message brokers
+
+## RabitMQ
 
 # Containers VS Virtualization
 
 ![container](img/container.svg)
 
+## Docker
+
 # GraphQL
 
+## Apollo
+
 # Graph DB's
+
+## Neo4j
 
 # Web Sockets
 
 # Web Servers
 
+## NGINX
+
 # Building for scale
 
 ![scale](img/scale.svg)
+
+## Horizontal vs Vertical Scalling
+
+## Migration strategies
+
+### Gracefull degradation
+
+### Throttling
+
+### Backpreasure
+
+### Loadshifting
+
+### Circuit Breaker
+
+## Build with observability in ming
+
+* Instrumentation
+
+* Telemetry
+
+* Monitoring
 
 # Keep lerning!
 
